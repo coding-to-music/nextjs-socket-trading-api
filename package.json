@@ -20,9 +20,6 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
     "@fortawesome/react-fontawesome": "^0.1.15",
-    "@harmony-js/contract": "^0.1.56",
-    "@harmony-js/core": "^0.1.57",
-    "@harmony-js/utils": "^0.1.56",
     "@metamask/detect-provider": "^1.2.0",
     "@visx/gradient": "file:visx/group@visx/mock-data@visx/responsive@visx/scale@visx/shape",
     "@visx/group": "^2.1.0",
@@ -46,8 +43,7 @@
     "react-dom": "^17.0.2",
     "react-spring": "^9.2.4",
     "solc": "^0.8.10",
-    "tslib": "^2.3.1",
-    "web3": "^1.7.3"
+    "tslib": "^2.3.1"
   },
   "devDependencies": {
     "autoprefixer": "^10.3.4",
