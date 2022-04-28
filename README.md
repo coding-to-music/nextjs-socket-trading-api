@@ -48,6 +48,8 @@ heroku create nextjs-socket-trading-api
 ```java
 heroku config:set
 
+  const coinMK_domain = "https://pro-api.coinmarketcap.com";
+
 heroku config:set JWT_SECRET="secret"
 
 heroku config:set PUBLIC_URL="https://nextjs-socket-trading-api.herokuapp.com"
