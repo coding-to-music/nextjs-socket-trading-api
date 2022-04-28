@@ -6,10 +6,6 @@
 
 https://github.com/coding-to-music/nextjs-socket-trading-api
 
-https://nextjs-socket-trading-api.vercel.app
-
-https://nextjs-socket-trading-api.herokuapp.com
-
 by Hussein Mohamed https://github.com/mohamedh2000
 
 https://github.com/mohamedh2000/CryptoHub
